@@ -4,9 +4,13 @@ body{
     margin:0px;
 }
 
-h1, p{
+h1{
     color:antiquewhite;
     text-align:center;
+}
+p{
+    color:antiquewhite;
+    text-align:justify;
 }
 
 .banner{
@@ -20,7 +24,8 @@ h1, p{
     width: 66%;
     background: #121212;
 }
-br{
+hr{
     border-bottom: 1px solid #FFF;
     margin-bottom: 5px;
+    padding:2x;
 }
