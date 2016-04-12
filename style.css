@@ -11,8 +11,7 @@ h1, p{
 
 .banner{
     background: darkred;
-    width:100%;
-    
+    width:100%; 
 }
 
 .content{
@@ -20,4 +19,8 @@ h1, p{
     padding: 10px;   
     width: 66%;
     background: #121212;
+}
+br{
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
 }
